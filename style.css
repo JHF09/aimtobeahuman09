@@ -1,0 +1,74 @@
+.one {
+  float: left;
+  width: 500px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.two {
+  font-size: 50px;
+}
+.three {
+  font-size: 25px;
+}
+.four {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.five {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.six {
+  float: right;
+  margin: 10px;
+  width: 500px;
+  border-radius: 10px;
+}
+.seven {
+  float: left;
+  margin: 5px;
+  width: 500px;
+  border-radius: 5px;
+}
+.eight {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.nine {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.ten {
+  float: right;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.eleven {
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  width: 500px;
+}
+.twelve {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  width: 700px;
+}
+.thirteen {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  width: 400px;
+}
