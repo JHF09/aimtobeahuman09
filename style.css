@@ -72,3 +72,43 @@
   border-radius: 10px;
   width: 400px;
 }
+.pokemon {
+  text-decoration: aqua;
+  font-size: 50px;
+  color: slategray;
+}
+.next_button {
+  background-color: aqua;
+  float: right;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.previous_button {
+  
+  background-color: aqua;
+  float: left;
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  font-size: 40px;
+}
+.button {
+  background-color: greenyellow;
+  border-radius: 10px;
+  width: 300px;
+  height: 50px;
+  font-size: 40px;
+  text-decoration-color: aliceblue;
+}
+.akuma {
+  width: 435px;
+  margin: 10px;
+}
+.big {
+  font-size: 70px;
+}
+.small {
+  font-size: 40px;
+}
